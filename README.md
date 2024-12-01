@@ -4,4 +4,3 @@ This project creates a machine learning system to detect autism through image an
 Dataset: https://www.kaggle.com/datasets/cihan063/autism-image-data
 
 
-For H5 file: https://drive.google.com/file/d/1dnmjQRBYE2TAk1JPMlTxJrKaDQlMtq_L/view?usp=drive_link
